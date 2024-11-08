@@ -1,0 +1,16 @@
+PODS:
+  - URLRouting-Hi (0.6.2-v1)
+
+DEPENDENCIES:
+  - URLRouting-Hi (from `../`)
+
+EXTERNAL SOURCES:
+  URLRouting-Hi:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  URLRouting-Hi: 756932d83206d337d87b910f3a6ae3b9992ed859
+
+PODFILE CHECKSUM: 36a5d81c10339d924c58f531a6d162bd82ed10bb
+
+COCOAPODS: 1.15.2

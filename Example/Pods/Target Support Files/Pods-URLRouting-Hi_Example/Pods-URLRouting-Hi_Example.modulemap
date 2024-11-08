@@ -1,0 +1,6 @@
+framework module Pods_URLRouting_Hi_Example {
+  umbrella header "Pods-URLRouting-Hi_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
